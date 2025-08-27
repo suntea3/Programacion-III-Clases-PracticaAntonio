@@ -22,7 +22,7 @@
   transform: translateY(1px);
 }
 .btn::before {
-  content: "→ ";
+  content: "";
 }
 
 .btn--outline {
